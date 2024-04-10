@@ -1,0 +1,140 @@
+{"level":"error","msg":"listen tcp :3000: bind: address already in use","time":"2024-04-09T20:18:27-06:00"}
+{"level":"error","msg":"Key: 'SignUpStruct.Email' Error:Field validation for 'Email' failed on the 'required' tag","time":"2024-04-09T20:31:49-06:00"}
+{"level":"error","msg":"Key: 'SignUpStruct.Email' Error:Field validation for 'Email' failed on the 'required' tag","time":"2024-04-09T20:48:40-06:00"}
+{"level":"error","msg":"Key: 'SignUpStruct.Email' Error:Field validation for 'Email' failed on the 'required' tag\nKey: 'SignUpStruct.User' Error:Field validation for 'User' failed on the 'required' tag","time":"2024-04-09T20:49:45-06:00"}
+{"level":"error","msg":"","time":"2024-04-09T21:06:17-06:00"}
+{"level":"error","msg":"Falta el campo Email\n","time":"2024-04-09T21:06:56-06:00"}
+{"level":"error","msg":"Falta el campo Email\n","time":"2024-04-09T21:09:28-06:00"}
+{"level":"error","msg":"Falta el campo Email ","time":"2024-04-09T21:09:45-06:00"}
+{"level":"error","msg":"Falta el campo Email Falta el campo User ","time":"2024-04-09T21:09:54-06:00"}
+{"level":"error","msg":"El email no es valido","time":"2024-04-09T21:16:29-06:00"}
+{"level":"error","msg":"El email no es valido","time":"2024-04-10T10:48:26-06:00"}
+{"level":"error","msg":"El email no es valido","time":"2024-04-10T10:50:41-06:00"}
+{"level":"error","msg":"El email no es valido","time":"2024-04-10T10:51:24-06:00"}
+{"level":"error","msg":"El telefono no es valido","time":"2024-04-10T10:51:47-06:00"}
+{"level":"error","msg":"El telefono no es valido","time":"2024-04-10T10:52:04-06:00"}
+{"level":"error","msg":"El telefono no es valido","time":"2024-04-10T10:52:09-06:00"}
+{"level":"error","msg":"El password no es valido","time":"2024-04-10T11:15:29-06:00"}
+{"level":"error","msg":"El password no es valido","time":"2024-04-10T11:15:31-06:00"}
+{"level":"error","msg":"El password no es valido","time":"2024-04-10T11:15:34-06:00"}
+{"level":"error","msg":"El password no es valido","time":"2024-04-10T11:15:52-06:00"}
+{"level":"error","msg":"El password no es valido","time":"2024-04-10T11:16:27-06:00"}
+{"level":"error","msg":"El password no es valido","time":"2024-04-10T11:16:28-06:00"}
+{"level":"error","msg":"El password no es valido","time":"2024-04-10T11:16:57-06:00"}
+{"level":"error","msg":"El password no es valido","time":"2024-04-10T11:20:27-06:00"}
+{"level":"error","msg":"El password no es valido","time":"2024-04-10T11:20:35-06:00"}
+{"level":"error","msg":"El password no es valido","time":"2024-04-10T11:20:36-06:00"}
+{"level":"error","msg":"El password no es valido","time":"2024-04-10T11:20:43-06:00"}
+{"level":"error","msg":"El password no es valido","time":"2024-04-10T11:20:44-06:00"}
+{"level":"error","msg":"El password no es valido","time":"2024-04-10T11:20:44-06:00"}
+{"level":"error","msg":"El password no es valido","time":"2024-04-10T11:30:02-06:00"}
+{"level":"error","msg":"El password no es valido","time":"2024-04-10T11:30:09-06:00"}
+{"level":"error","msg":"El password no es valido","time":"2024-04-10T11:31:50-06:00"}
+{"level":"error","msg":"El password no es valido","time":"2024-04-10T11:31:57-06:00"}
+{"level":"error","msg":"El password no es valido","time":"2024-04-10T11:32:28-06:00"}
+{"level":"error","msg":"El password no es valido","time":"2024-04-10T11:33:52-06:00"}
+{"level":"error","msg":"Falta el campo Correo Falta el campo Usuario Falta el campo Contrasena Falta el campo Telefono ","time":"2024-04-10T11:42:16-06:00"}
+{"level":"error","msg":"listen tcp :300: bind: permission denied","time":"2024-04-10T13:46:40-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"credit_assigner\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T13:46:48-06:00"}
+{"level":"error","msg":"El correo/telefono ya se encuentra registrado","time":"2024-04-10T13:47:01-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: sql: expected 4 arguments, got 0","time":"2024-04-10T13:47:16-06:00"}
+{"level":"error","msg":"El correo/telefono ya se encuentra registrado","time":"2024-04-10T13:47:58-06:00"}
+{"level":"error","msg":"El correo/telefono ya se encuentra registrado","time":"2024-04-10T13:47:59-06:00"}
+{"level":"error","msg":"El correo/telefono ya se encuentra registrado","time":"2024-04-10T13:51:12-06:00"}
+{"level":"error","msg":"El correo/telefono ya se encuentra registrado","time":"2024-04-10T13:51:16-06:00"}
+{"level":"error","msg":"El correo/telefono ya se encuentra registrado","time":"2024-04-10T13:51:19-06:00"}
+{"level":"error","msg":"El correo/telefono ya se encuentra registrado","time":"2024-04-10T13:51:49-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: sql: expected 3 arguments, got 2","time":"2024-04-10T13:53:53-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: sql: expected 3 arguments, got 2","time":"2024-04-10T13:54:02-06:00"}
+{"level":"error","msg":"El correo/telefono ya se encuentra registrado","time":"2024-04-10T13:54:07-06:00"}
+{"level":"error","msg":"El correo/telefono ya se encuentra registrado","time":"2024-04-10T13:54:10-06:00"}
+{"level":"error","msg":"invalid character '}' looking for beginning of object key string","time":"2024-04-10T14:05:08-06:00"}
+{"level":"error","msg":"Falta el campo UsuarioOCorreo ","time":"2024-04-10T14:05:14-06:00"}
+{"level":"error","msg":"Falta el campo UsuarioOCorreo ","time":"2024-04-10T14:05:35-06:00"}
+{"level":"error","msg":"usuario / contraseña incorrectos","time":"2024-04-10T14:05:40-06:00"}
+{"level":"error","msg":"usuario / contraseña incorrectos","time":"2024-04-10T14:05:56-06:00"}
+{"level":"error","msg":"El correo/telefono ya se encuentra registrado","time":"2024-04-10T14:06:03-06:00"}
+{"level":"error","msg":"usuario / contraseña incorrectos","time":"2024-04-10T14:06:20-06:00"}
+{"level":"error","msg":"usuario / contraseña incorrectos","time":"2024-04-10T14:06:21-06:00"}
+{"level":"error","msg":"usuario / contraseña incorrectos","time":"2024-04-10T14:07:00-06:00"}
+{"level":"error","msg":"usuario / contraseña incorrectos","time":"2024-04-10T14:07:37-06:00"}
+{"level":"error","msg":"key is of invalid type: HMAC sign expects []byte","time":"2024-04-10T15:31:08-06:00"}
+{"level":"error","msg":"key is of invalid type: HMAC sign expects []byte","time":"2024-04-10T15:32:34-06:00"}
+{"level":"error","msg":"key is of invalid type: HMAC sign expects []byte","time":"2024-04-10T15:32:35-06:00"}
+{"level":"error","msg":"key is of invalid type: HMAC sign expects []byte","time":"2024-04-10T15:33:23-06:00"}
+{"level":"error","msg":"key is of invalid type: HMAC sign expects []byte","time":"2024-04-10T15:33:24-06:00"}
+{"level":"error","msg":"key is of invalid type: HMAC sign expects []byte","time":"2024-04-10T15:34:44-06:00"}
+{"level":"error","msg":"key is of invalid type: HMAC sign expects []byte","time":"2024-04-10T15:35:13-06:00"}
+{"level":"error","msg":"key is of invalid type: HMAC sign expects []byte","time":"2024-04-10T15:35:14-06:00"}
+{"level":"error","msg":"key is of invalid type: HMAC sign expects []byte","time":"2024-04-10T15:35:36-06:00"}
+{"level":"error","msg":"key is of invalid type: HMAC sign expects []byte","time":"2024-04-10T15:36:32-06:00"}
+{"level":"error","msg":"usuario / contraseña incorrectos","time":"2024-04-10T15:37:38-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:02-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:03-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:04-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:05-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:07-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:08-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:10-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:11-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:11-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:12-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:12-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:13-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:14-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:29-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:30-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:31-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:32-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:33-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:34-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:34-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:35-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:35-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:36-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:37-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:37-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:38-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:39-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:39-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:40-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:40-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:41-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:42-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:42-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:43-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:44-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:44-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:45-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:45-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:46-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:46-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:47-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:48-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:48-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:49-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:49-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:50-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:51-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:51-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:52-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:52-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:53-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:54-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:44:54-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: unable to open tcp connection with host 'localhost:1433': dial tcp 127.0.0.1:1433: connect: connection refused","time":"2024-04-10T15:46:22-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: unable to open tcp connection with host 'localhost:1433': dial tcp 127.0.0.1:1433: connect: connection refused","time":"2024-04-10T15:46:23-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: unable to open tcp connection with host 'localhost:1433': dial tcp 127.0.0.1:1433: connect: connection refused","time":"2024-04-10T15:46:24-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: read tcp 127.0.0.1:52494-\u003e127.0.0.1:1433: read: connection reset by peer","time":"2024-04-10T15:46:30-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:46:36-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:46:38-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:46:39-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:46:40-06:00"}
+{"level":"error","msg":"No se pudo ejecutar el store procedure insert_user: mssql: login error: Cannot open database \"backend\" that was requested by the login. Using the user default database \"master\" instead.","time":"2024-04-10T15:46:41-06:00"}
+{"level":"error","msg":"listen tcp :3001: bind: address already in use","time":"2024-04-10T15:47:11-06:00"}
+{"level":"error","msg":"usuario / contraseña incorrectos","time":"2024-04-10T15:50:09-06:00"}
+{"level":"error","msg":"usuario / contraseña incorrectos","time":"2024-04-10T15:50:11-06:00"}
+{"level":"error","msg":"usuario / contraseña incorrectos","time":"2024-04-10T15:50:12-06:00"}
+{"level":"error","msg":"usuario / contraseña incorrectos","time":"2024-04-10T15:50:12-06:00"}
+{"level":"error","msg":"usuario / contraseña incorrectos","time":"2024-04-10T15:50:59-06:00"}
+{"level":"error","msg":"usuario / contraseña incorrectos","time":"2024-04-10T15:51:00-06:00"}

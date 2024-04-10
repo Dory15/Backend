@@ -1,0 +1,7 @@
+CREATE TABLE [user] (
+    id INT PRIMARY KEY IDENTITY (1, 1),
+    email VARCHAR (60) NOT NULL UNIQUE,
+    [user] VARCHAR (60)NOT NULL,
+    [password] VARCHAR (100) NOT NULL,
+    phone VARCHAR(15) NOT NULL UNIQUE
+);
